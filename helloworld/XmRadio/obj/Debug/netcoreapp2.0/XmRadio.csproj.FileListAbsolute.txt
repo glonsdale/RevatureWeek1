@@ -9,3 +9,8 @@ C:\Users\lonsd\Documents\greg-code\helloworld\XmRadio\obj\Debug\netcoreapp2.0\Xm
 C:\Users\lonsd\Documents\greg-code\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.AssemblyInfo.cs
 C:\Users\lonsd\Documents\greg-code\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.dll
 C:\Users\lonsd\Documents\greg-code\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\XmRadio\obj\Debug\netcoreapp2.0\XmRadio.pdb

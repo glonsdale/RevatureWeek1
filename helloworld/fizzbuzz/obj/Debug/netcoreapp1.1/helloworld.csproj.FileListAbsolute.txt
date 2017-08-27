@@ -7,3 +7,13 @@ C:\Users\lonsd\Documents\greg-code\helloworld\obj\Debug\netcoreapp1.1\helloworld
 C:\Users\lonsd\Documents\greg-code\helloworld\obj\Debug\netcoreapp1.1\helloworld.AssemblyInfo.cs
 C:\Users\lonsd\Documents\greg-code\helloworld\obj\Debug\netcoreapp1.1\helloworld.dll
 C:\Users\lonsd\Documents\greg-code\helloworld\obj\Debug\netcoreapp1.1\helloworld.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\bin\Debug\netcoreapp1.1\helloworld.deps.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\bin\Debug\netcoreapp1.1\helloworld.runtimeconfig.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\bin\Debug\netcoreapp1.1\helloworld.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\bin\Debug\netcoreapp1.1\helloworld.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\bin\Debug\netcoreapp1.1\helloworld.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\obj\Debug\netcoreapp1.1\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\obj\Debug\netcoreapp1.1\helloworld.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\obj\Debug\netcoreapp1.1\helloworld.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\obj\Debug\netcoreapp1.1\helloworld.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\fizzbuzz\obj\Debug\netcoreapp1.1\helloworld.pdb

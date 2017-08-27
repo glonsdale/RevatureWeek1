@@ -8,3 +8,13 @@ C:\Users\lonsd\Documents\greg-code\helloworld\shapegarden\obj\Debug\netcoreapp1.
 C:\Users\lonsd\Documents\greg-code\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.dll
 C:\Users\lonsd\Documents\greg-code\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.pdb
 C:\Users\lonsd\Documents\greg-code\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp1.1\shapegarden.deps.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp1.1\shapegarden.runtimeconfig.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp1.1\shapegarden.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp1.1\shapegarden.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp1.1\shapegarden.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp1.1\shapegarden.pdb

@@ -1,0 +1,10 @@
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp2.0\shapegarden.deps.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp2.0\shapegarden.runtimeconfig.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp2.0\shapegarden.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp2.0\shapegarden.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\bin\Debug\netcoreapp2.0\shapegarden.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp2.0\shapegarden.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp2.0\shapegarden.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp2.0\shapegarden.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp2.0\shapegarden.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\shapegarden\obj\Debug\netcoreapp2.0\shapegarden.pdb
