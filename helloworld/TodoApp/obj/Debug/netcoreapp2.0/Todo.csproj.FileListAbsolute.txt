@@ -4,3 +4,16 @@ C:\Users\lonsd\Documents\greg-code\helloworld\Todo\obj\Debug\netcoreapp2.0\Todo.
 C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.csproj.CoreCompileInputs.cache
 C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
 C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\Todo.deps.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\Todo.runtimeconfig.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\Todo.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\Todo.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\bin\Debug\netcoreapp2.0\Todo.pdb
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.dll
+C:\Users\lonsd\Documents\RevatureWeek1\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.pdb

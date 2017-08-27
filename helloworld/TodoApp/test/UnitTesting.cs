@@ -1,7 +1,7 @@
 using Xunit;
 using TodoApp.src;
 
-namespace Todo.test
+namespace TodoApp.test
 {
   public class UnitTesting
   {
@@ -22,22 +22,36 @@ namespace Todo.test
     public void ReadTest()
     {
       //arrange
+      //Todo already contains Flank at index 0 from the previous test.
+      var expected = "Flank";
+
       //act
+      var actual = Todo.Read(0);
       //assert
+      Assert.True(actual == expected);
+
     }
     [Fact]
     public void UpdateTest()
     {
       //arrange
+      var expected = "Prone";
       //act
+      var actual = Todo.Update(0, "Prone");
+
       //assert
+      Assert.True(expected == actual);
+      
     }
     [Fact]
     public void DeleteTest()
     {
       //arrange
-      //act
+      
+      
+      var actual = Todo.Delete(0);
       //assert
+      Assert.True(actual);
     }
     [Fact]
     public void CompleteTest()

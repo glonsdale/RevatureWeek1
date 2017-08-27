@@ -5621,11 +5621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\Todo.csproj",
+      "projectUniqueName": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\Todo.csproj",
       "projectName": "Todo",
-      "projectPath": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\Todo.csproj",
+      "projectPath": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\Todo.csproj",
       "packagesPath": "C:\\Users\\lonsd\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\obj\\",
+      "outputPath": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\TodoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
