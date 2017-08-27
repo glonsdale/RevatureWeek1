@@ -1,0 +1,14 @@
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\obj\Debug\netcoreapp2.0\QATest.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\obj\Debug\netcoreapp2.0\QATest.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\obj\Debug\netcoreapp2.0\QATest.AssemblyInfo.cs
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\QATest.deps.json
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\QATest.runtimeconfig.json
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\QATest.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\QATest.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\QATest.pdb
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\obj\Debug\netcoreapp2.0\QATest.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\obj\Debug\netcoreapp2.0\QATest.pdb
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\Machine.TestAdapter.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\QATest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll

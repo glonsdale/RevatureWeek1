@@ -1,0 +1,6 @@
+C:\Users\lonsd\Documents\greg-code\helloworld\Todo\obj\Debug\netcoreapp2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\Todo\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs
+C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\TodoApp\obj\Debug\netcoreapp2.0\Todo.AssemblyInfo.cs

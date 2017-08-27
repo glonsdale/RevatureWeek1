@@ -1,0 +1,10 @@
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\obj\Debug\netcoreapp2.0\concatador.csproj.CoreCompileInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\obj\Debug\netcoreapp2.0\concatador.AssemblyInfoInputs.cache
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\obj\Debug\netcoreapp2.0\concatador.AssemblyInfo.cs
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\bin\Debug\netcoreapp2.0\concatador.deps.json
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\bin\Debug\netcoreapp2.0\concatador.runtimeconfig.json
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\bin\Debug\netcoreapp2.0\concatador.runtimeconfig.dev.json
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\bin\Debug\netcoreapp2.0\concatador.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\bin\Debug\netcoreapp2.0\concatador.pdb
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\obj\Debug\netcoreapp2.0\concatador.dll
+C:\Users\lonsd\Documents\greg-code\helloworld\concatador\obj\Debug\netcoreapp2.0\concatador.pdb
