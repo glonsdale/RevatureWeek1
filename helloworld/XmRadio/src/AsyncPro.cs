@@ -30,7 +30,7 @@ namespace QATest.src
 
       foreach(var item in TStatus)
       {
-        System.Console.WriteLine("{0}: {1}", item.Key, item.Value);
+        System.Console.WriteLine("\n{0}: {1}", item.Key, item.Value);
       }
     }
     public Task ASyncParty()
@@ -74,7 +74,7 @@ namespace QATest.src
 
       t1.Start();
       t2.Start();
-      //Task.WaitAny(new Task[]{t1,t2}, 500); //wait for the first one to complete
+      //Task.WaitAny(t1,t2); //wait for the first one to complete
       Task.WaitAll(t1,t2);// wait for the last one to complete
 
       foreach(var item in TStatus)

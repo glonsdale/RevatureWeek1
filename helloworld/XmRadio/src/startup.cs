@@ -9,17 +9,17 @@ namespace QATest.src
     public static void Main(string[] args)
     {
     //EventStuff();
-    //
+    //ThreadStuff();
     //TaskStuff();
     AsyncStuff();
-    Thread.Sleep(5000);
+    //Thread.Sleep(5000);
     }
     public static void EventStuff()
     {
-      var r = XMRadio.Instance;
+      //var r = XMRadio.Instance;
       var s = new XMSub();
-      s.Subscribe(r);
-      r.Broadcast();
+      //s.Subscribe(r);
+      //r.Broadcast();
     }
     public static void ThreadStuff()
     {
