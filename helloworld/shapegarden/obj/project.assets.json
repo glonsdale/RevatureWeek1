@@ -670,22 +670,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\shapegarden\\shapegarden.csproj",
+      "projectUniqueName": "c:\\Users\\lonsd\\Documents\\greg-code\\helloworld\\shapegarden\\shapegarden.csproj",
       "projectName": "shapegarden",
-      "projectPath": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\shapegarden\\shapegarden.csproj",
+      "projectPath": "c:\\Users\\lonsd\\Documents\\greg-code\\helloworld\\shapegarden\\shapegarden.csproj",
       "packagesPath": "C:\\Users\\lonsd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lonsd\\Documents\\RevatureWeek1\\helloworld\\shapegarden\\obj\\",
+      "outputPath": "c:\\Users\\lonsd\\Documents\\greg-code\\helloworld\\shapegarden\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lonsd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lonsd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -260,7 +260,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "L5MiyUsAobpmOajfyY8jxr63ILArM2GTIaoMlQqUnzYqH5fuvzsxygttUj69hbhIhBzMLU+7HaFCjTwoxkdd5w==",
+      "sha512": "ieJjlYLA7RcfIn6R3Ag/kCidD0QhwhzFBsmxXfo+bivEttB3383rqr9uDrtq75t0uYg10hdztswcmXa2sIvFHA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -566,22 +566,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\Project 1\\Project 1.csproj",
+      "projectUniqueName": "c:\\Users\\lonsd\\Documents\\greg-code\\Project 1\\Project 1.csproj",
       "projectName": "Project 1",
-      "projectPath": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\Project 1\\Project 1.csproj",
+      "projectPath": "c:\\Users\\lonsd\\Documents\\greg-code\\Project 1\\Project 1.csproj",
       "packagesPath": "C:\\Users\\lonsd\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lonsd\\Documents\\RevatureWeek1\\Project 1\\obj\\",
+      "outputPath": "c:\\Users\\lonsd\\Documents\\greg-code\\Project 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lonsd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lonsd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
